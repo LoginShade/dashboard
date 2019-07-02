@@ -42,7 +42,7 @@ h5 {
 .customer-desc{
 	width: 75px;
 	height: 75px;
-	background-image: url("..\hello.jpeg");
+	background-image: url("hello.jpg");
 	background-size: cover;
 	background-position: center;
 	border-radius: 50%;
